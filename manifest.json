@@ -21,8 +21,8 @@
     "lang": "es-ES",
     "name": "Mascotas",
     "short_name": "Mascotas",
-    "start_url": "https://elprofehugo.online/taller/propwa_009/",
-    "scope": "https://elprofehugo.online/taller/propwa_009/",
-    "id": "https://elprofehugo.online/taller/propwa_009/",
+    "start_url": "https://estebanquirogah.github.io/pwa_taller1/",
+    "scope": "https://estebanquirogah.github.io/pwa_taller1/",
+    "id": "https://estebanquirogah.github.io/pwa_taller1/",
     "description": "pwa de animales"
 }
